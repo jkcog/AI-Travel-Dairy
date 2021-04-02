@@ -1,7 +1,7 @@
 # AI-Travel-Dairy
 NLP text generation project with Hugging Face.
 <br>
-Using a fine-tuned GPT-2 model to generate text and provide illustration prompts for an artistic collaborator.
+Using a fine-tuned GPT-2 model to generate text and provide artistic prompts.
 
 
 # Introduction
